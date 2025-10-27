@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Anil Kumar
 
-<!--
-**team2681/team2681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Android Developer | Kotlin | Jetpack Compose | Firebase | Open Source Contributor
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- 💻 Kotlin, Java
+- 📱 Android Studio, Jetpack Compose
+- ☁️ Firebase, Retrofit, Room
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilkumar&show_icons=true&theme=tokyonight)
+
+### 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilkumar2681/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anilkumar2681)
