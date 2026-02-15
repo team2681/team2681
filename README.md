@@ -20,11 +20,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=team2681&layout=compact&hide=html" alt="anandgaur22" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=team2681&show_icons=true" alt="team2681" /></p>
-
-
 
 <b>Primary Skillset: </b> Android, Java, Kotlin, kotlin Multiplatform <br/>
 <b>Secondary Skillset: </b> Flutter, React Native<br/>
