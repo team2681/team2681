@@ -28,6 +28,6 @@
 
 
 <b>Primary Skillset: </b> Android, Java, Kotlin, kotlin Multiplatform <br/>
-<b>Secondary Skillset: </b> Flutter, React Native<br/>
+<b>Secondary Skillset: </b> Flutter, React Native, Python, GenAI, OpenAI <br/>
 <b>Other profiles:</b>
 <a href = "https://www.linkedin.com/in/anilkumar2681/" target="_blank">You can reach out to me here</a> or have a look at some of my libraries and projects below.
