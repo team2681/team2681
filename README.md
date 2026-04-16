@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anil Kumar</h1>
 
-🌱 Senior Software Engineer @ Bahwancybertek, India <br>📫 Drop me a line at anilkumar2681@gmail.com <br>⚡ I love building with **Java**, **Kotlin**, **Android**, and exploring **Kotlin Multiplatform**, **Flutter**, and **React Native** **Python**, **GenAI**, **OpenAI**<br>👨‍🎓 Lifelong learner — always curious to pick up something new every day.
+🌱 Senior Software Engineer @ Bahwancybertek, India <br>📫 Drop me a line at anilkumar2681@gmail.com <br>⚡ I love building with **Java**, **Kotlin**, **Android**, and exploring **Kotlin Multiplatform**, **Flutter**, **React Native** **Python**, **GenAI**, and **OpenAI**<br>👨‍🎓 Lifelong learner — always curious to pick up something new every day.
 
 
 
