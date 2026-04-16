@@ -17,6 +17,12 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral%20AI-FF7000.svg?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![SQLCoder](https://img.shields.io/badge/SQLCoder-003B57.svg?style=for-the-badge)
 
 
 
